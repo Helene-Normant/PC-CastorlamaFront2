@@ -23,3 +23,6 @@ Projet ADA TECH SCHOOL
 Front team 
 Charlotte-Romain-Hélène
 
+
+# Maquette de départ :
+![Exercice-Maquette-Site-Meuble](https://user-images.githubusercontent.com/98808947/179031463-1867b578-1d52-4013-a960-058d721badbd.jpg)
