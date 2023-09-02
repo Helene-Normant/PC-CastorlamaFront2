@@ -1,28 +1,56 @@
-# Castorlama furniture vintage 
-
-## Website shop project 
-
-## Process de setup de front
-
-### ETAPE 1
-- Clone the repository project
-
-<img width="440" alt="Capture d’écran 2022-07-04 à 16 02 38" src="https://user-images.githubusercontent.com/98778180/177170462-5c4cf1ba-1801-438a-acdc-be728a087ec3.png">
-
-### ETAPE 2
-- Install all packages with `npm install`
-
-### ETAPE 4
-- Once on the IDE `npm start run` for launch in localhost
+<div align="center">
+ <img width="397" alt="Capture d’écran 2023-09-02 à 18 31 55" src="https://github.com/Helene-Normant/PC-CastorlamaFront2/assets/98808947/dd8be910-f1d4-49d2-96ab-f417eb30b4a9">
 
 
-CSS/REACT/BOOTSTRAP for react
+<h3 align="center">Castorlama</h3>
 
-Projet ADA TECH SCHOOL
-
-Front team 
-Charlotte-Romain-Hélène
+</div>
 
 
-# Maquette de départ :
-![Exercice-Maquette-Site-Meuble](https://user-images.githubusercontent.com/98808947/179031463-1867b578-1d52-4013-a960-058d721badbd.jpg)
+## About The Project
+A two-week school project involving an online second-hand furniture website. We developed both the back-end and front-end components. I was part of the front-end team.
+
+### Built With
+
+
+#### Front-end:
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)](https://skillicons.dev)
+
+#### Back-End: 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+## Getting Started
+
+#### Front-End:
+
+1. Clone the repo
+ 
+ `git@github.com:Helene-Normant/PC-CastorlamaFront2.git`
+ 
+2. Install npm packages
+
+`npm install`
+  
+3. Run the project
+  
+`npm start run`
+
+#### Back-End: 
+
+1.Clone the repo 
+
+`git@github.com:adatechschool/PC-CastorlamaBack.git`
+
+2. Express
+
+`npm install`
+
+3. Run the project  
+
+`npm start run`
+
+
+
+
+
+
